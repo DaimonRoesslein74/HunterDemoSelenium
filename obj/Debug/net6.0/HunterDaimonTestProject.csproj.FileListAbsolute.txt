@@ -97,3 +97,8 @@ C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\obj\Debug\net6.0\
 C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\obj\Debug\net6.0\HunterDaimonTestProject.pdb
 C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\obj\Debug\net6.0\HunterDaimonTestProject.genruntimeconfig.cache
 C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\obj\Debug\net6.0\ref\HunterDaimonTestProject.dll
+C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Daimon Roesslein\source\repos\HunterDaimonTestProject\bin\Debug\net6.0\WebDriver.dll
